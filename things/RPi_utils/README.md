@@ -1,0 +1,1 @@
+Get you copy of ninjablocks https://github.com/ninjablocks/433Utils/tree/master/RPi_utils and place it in this folder

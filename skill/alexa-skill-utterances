@@ -1,0 +1,12 @@
+SetRemotePlug Switch {DeviceState} {DeviceName}
+SetRemotePlug Switch {DeviceState} the {DeviceName}
+SetRemotePlug Turn {DeviceState} {DeviceName}
+SetRemotePlug Turn {DeviceState} the {DeviceName}
+SetRemotePlug Turn the {DeviceName} {DeviceState}
+SetRemotePlug Turn {DeviceName} {DeviceState}
+GetRemotePlug What is the current state of {DeviceName}
+GetRemotePlug What is the state of {DeviceName}
+GetRemotePlug Is {DeviceName} on
+GetRemotePlug Is {DeviceName} off
+GetAirCondition Get air {AirCondition}
+GetAirCondition Get {AirCondition}

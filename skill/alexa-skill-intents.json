@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "intent": "SetRemotePlug",
+      "slots": [
+        {
+          "name": "DeviceName",
+          "type": "DeviceName"
+        },
+        {
+          "name": "DeviceState",
+          "type": "DeviceState"
+        }
+      ]
+    },
+    {
+      "intent": "GetRemotePlug",
+      "slots": [
+        {
+          "name": "DeviceName",
+          "type": "DeviceName"
+        }
+      ]
+    },
+    {
+      "intent": "GetAirCondition",
+      "slots": [
+        {
+          "name": "AirCondition",
+          "type": "AirCondition"
+        }
+      ]
+    }
+  ]
+}

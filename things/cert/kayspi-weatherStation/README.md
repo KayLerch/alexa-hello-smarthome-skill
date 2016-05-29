@@ -1,0 +1,1 @@
+Copy your client certificates here. Most likely you got them from AWS IoT after you registered a new thing.
